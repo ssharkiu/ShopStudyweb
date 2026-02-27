@@ -1,0 +1,14 @@
+# Visual Studio 缓存和配置文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译输出目录
+bin/
+obj/
+
+# NuGet 缓存
+packages/
+*.nupkg

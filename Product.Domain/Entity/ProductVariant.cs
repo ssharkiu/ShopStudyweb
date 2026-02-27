@@ -64,7 +64,7 @@ namespace Product.Domain.Entity
             Price=price;
             Visible=visible;
             Deleted=deleted;
-            //123
+            //123132
                 
         }
         public void UpdatePrice(ProductType type)//更新价格
