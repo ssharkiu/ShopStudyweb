@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "H:\\Webshop\\Study.Shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|h:\\webshop\\study.shop\\product.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB9A989-60F8-4967-95F5-3595A2152AE1}|Product.WebAPI\\Product.WebAPI.csproj|h:\\webshop\\study.shop\\product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB9A989-60F8-4967-95F5-3595A2152AE1}|Product.WebAPI\\Product.WebAPI.csproj|solutionrelative:product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|h:\\webshop\\study.shop\\product.infrastructure\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|h:\\webshop\\study.shop\\product.domain\\productdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\productdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|h:\\webshop\\study.shop\\product.infrastructure\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|h:\\webshop\\study.shop\\product.domain\\iproducttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\iproducttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|h:\\webshop\\study.shop\\product.domain\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|h:\\webshop\\study.shop\\product.domain\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|h:\\webshop\\study.shop\\product.domain\\entity\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\entity\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\configs\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Webshop\\Study.Shop\\Product.Infrastructure\\Migrations\\20260311111851_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product.Infrastructure\\Migrations\\20260311111851_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BB9A989-60F8-4967-95F5-3595A2152AE1}|Product.WebAPI\\Product.WebAPI.csproj|h:\\webshop\\study.shop\\product.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BB9A989-60F8-4967-95F5-3595A2152AE1}|Product.WebAPI\\Product.WebAPI.csproj|solutionrelative:product.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB9A989-60F8-4967-95F5-3595A2152AE1}|Product.WebAPI\\Product.WebAPI.csproj|h:\\webshop\\study.shop\\product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB9A989-60F8-4967-95F5-3595A2152AE1}|Product.WebAPI\\Product.WebAPI.csproj|solutionrelative:product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|h:\\webshop\\study.shop\\product.infrastructure\\dbcontexts\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +77,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|h:\\webshop\\study.shop\\product.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1326278F-61C2-4751-8BED-8ED36C7E320D}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|h:\\webshop\\study.shop\\product.infrastructure\\migrations\\20260311111851_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40F9FFA-2665-42CB-94E0-9F29F30D656A}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\migrations\\20260311111851_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +90,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDomainService.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\ProductDomainService.cs",
+              "RelativeDocumentMoniker": "Product.Domain\\ProductDomainService.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Domain\\ProductDomainService.cs",
+              "RelativeToolTip": "Product.Domain\\ProductDomainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:35:33.639Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -75,6 +116,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductTypeRepository.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\ProductTypeRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\ProductTypeRepository.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\ProductTypeRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\ProductTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:30:59.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\CategoryRepository.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\CategoryRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:30:24.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\ProductRepository.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\ProductRepository.cs",
+              "RelativeToolTip": "Product.Infrastructure\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:28:26.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Product.WebAPI\\Program.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.WebAPI\\Program.cs",
+              "RelativeToolTip": "Product.WebAPI\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:58:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductTypeRepository.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\IProductTypeRepository.cs",
+              "RelativeDocumentMoniker": "Product.Domain\\IProductTypeRepository.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Domain\\IProductTypeRepository.cs",
+              "RelativeToolTip": "Product.Domain\\IProductTypeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:23:21.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Product.Domain\\ICategoryRepository.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Domain\\ICategoryRepository.cs",
+              "RelativeToolTip": "Product.Domain\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:16:41.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.Domain\\IProductRepository.cs",
+              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Domain\\IProductRepository.cs",
+              "RelativeToolTip": "Product.Domain\\IProductRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:06:00.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CategoryConfig.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\Configs\\CategoryConfig.cs",
               "RelativeDocumentMoniker": "Product.Infrastructure\\Configs\\CategoryConfig.cs",
@@ -87,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "ProductConfig.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\Configs\\ProductConfig.cs",
               "RelativeDocumentMoniker": "Product.Infrastructure\\Configs\\ProductConfig.cs",
@@ -100,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ProductTypeConfig.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\Configs\\ProductTypeConfig.cs",
               "RelativeDocumentMoniker": "Product.Infrastructure\\Configs\\ProductTypeConfig.cs",
@@ -113,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "ProductVariantConfig.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\Configs\\ProductVariantConfig.cs",
               "RelativeDocumentMoniker": "Product.Infrastructure\\Configs\\ProductVariantConfig.cs",
@@ -126,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "Product.Domain\\Entity\\Category.cs",
@@ -134,25 +266,24 @@
               "RelativeToolTip": "Product.Domain\\Entity\\Category.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAIwCUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T12:26:55.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T12:26:55.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "IAggregateRoot.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\Entity\\IAggregateRoot.cs",
               "RelativeDocumentMoniker": "Product.Domain\\Entity\\IAggregateRoot.cs",
               "ToolTip": "H:\\Webshop\\Study.Shop\\Product.Domain\\Entity\\IAggregateRoot.cs",
               "RelativeToolTip": "Product.Domain\\Entity\\IAggregateRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:01:01.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "20260311111851_init.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\Migrations\\20260311111851_init.cs",
               "RelativeDocumentMoniker": "Product.Infrastructure\\Migrations\\20260311111851_init.cs",
@@ -165,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "Product.WebAPI\\appsettings.json",
@@ -173,25 +304,11 @@
               "RelativeToolTip": "Product.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-11T08:56:22.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T08:56:22.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Product.WebAPI\\Program.cs",
-              "ToolTip": "H:\\Webshop\\Study.Shop\\Product.WebAPI\\Program.cs",
-              "RelativeToolTip": "Product.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:58:44.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Infrastructure\\dbContexts\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "Product.Infrastructure\\dbContexts\\ProductDbContext.cs",
@@ -204,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ProductType.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\Entity\\ProductType.cs",
               "RelativeDocumentMoniker": "Product.Domain\\Entity\\ProductType.cs",
@@ -212,12 +329,11 @@
               "RelativeToolTip": "Product.Domain\\Entity\\ProductType.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T12:29:02.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T12:29:02.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ProductVariant.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\Entity\\ProductVariant.cs",
               "RelativeDocumentMoniker": "Product.Domain\\Entity\\ProductVariant.cs",
@@ -225,12 +341,11 @@
               "RelativeToolTip": "Product.Domain\\Entity\\ProductVariant.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAA1wDwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T12:28:35.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T12:28:35.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
               "DocumentMoniker": "H:\\Webshop\\Study.Shop\\Product.Domain\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "Product.Domain\\Entity\\Product.cs",
@@ -238,8 +353,7 @@
               "RelativeToolTip": "Product.Domain\\Entity\\Product.cs",
               "ViewState": "AgIAABoAAAAAAAAAAADwv3EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T12:27:08.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T12:27:08.191Z"
             }
           ]
         }
